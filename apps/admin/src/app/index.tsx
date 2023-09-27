@@ -13,7 +13,7 @@ function App(): JSX.Element {
       <p className="description">
         Built With{" "}
         <Link href="https://turbo.build/repo" newTab>
-          Turborepo
+          Balls
         </Link>
         {" & "}
         <Link href="https://vitejs.dev/" newTab>
