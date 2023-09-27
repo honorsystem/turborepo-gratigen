@@ -7,7 +7,7 @@ export function CounterButton(): JSX.Element {
     <div
       style={{
         background: `rgba(0,0,0,0.05)`,
-        borderRadius: `8px`,
+        borderRadius: `80px`,
         padding: "1.5rem",
         fontWeight: 500,
       }}
