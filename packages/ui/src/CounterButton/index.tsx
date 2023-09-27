@@ -18,7 +18,7 @@ export function CounterButton(): JSX.Element {
           style={{
             padding: "0.2rem 0.3rem",
             background: `rgba(0,0,0,0.1)`,
-            borderRadius: "0.25rem",
+            borderRadius: "1rem",
           }}
         >
           ui
@@ -34,7 +34,7 @@ export function CounterButton(): JSX.Element {
             color: "white",
             border: "none",
             padding: "0.5rem 1rem",
-            borderRadius: "0.25rem",
+            borderRadius: "1rem",
             display: "inline-block",
             cursor: "pointer",
           }}
